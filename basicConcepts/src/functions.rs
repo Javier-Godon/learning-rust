@@ -43,4 +43,4 @@ fn calculate_bmi(weight: f64, height: f64) -> f64 {
     weight / (height * height) // this is an expression, it returns a value
 }
 
-//min 1:05:57
+
